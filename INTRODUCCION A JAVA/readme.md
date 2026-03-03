@@ -1,3 +1,3 @@
 # Ejercicios Introductorios de JAVA
 
-En esta carpeta se llevan a cabo algunos ejercicios introductorios de JAVA
+En esta carpeta se llevarán a cabo algunos ejercicios introductorios de JAVA y demás.
